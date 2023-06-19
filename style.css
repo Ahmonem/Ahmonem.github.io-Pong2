@@ -68,3 +68,10 @@
     text-align: right;
     border-right: .5vh solid var(--foreground-color);
   }
+
+  .menu {
+    position: absolute;
+    bottom: 10px;
+    left: 930px;
+    color: aliceblue;
+  }
